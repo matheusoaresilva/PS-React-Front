@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import api from './Api';
+import api from './Helpers/Api';
 import InputDataInicio from './Components/Inputs/InputDataInicio';
 import InputDataFim from './Components/Inputs/InputDataFim';
 import ButtonPesquisar from './Components/Button/ButtonPesquisar';
